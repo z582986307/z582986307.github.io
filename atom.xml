@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://z582986307.github.io</id>
-    <title>赵世鹏的博客</title>
-    <updated>2021-02-24T01:44:43.127Z</updated>
+    <title>鹏的个人主页</title>
+    <updated>2021-02-24T04:24:57.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://z582986307.github.io"/>
     <link rel="self" href="https://z582986307.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://z582986307.github.io/images/avatar.png</logo>
     <icon>https://z582986307.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 赵世鹏的博客</rights>
+    <rights>All rights reserved 2021, 鹏的个人主页</rights>
+    <entry>
+        <title type="html"><![CDATA[这是我的第一篇博客]]></title>
+        <id>https://z582986307.github.io/post/zhe-shi-wo-de-di-yi-pian-bo-ke/</id>
+        <link href="https://z582986307.github.io/post/zhe-shi-wo-de-di-yi-pian-bo-ke/">
+        </link>
+        <updated>2021-02-24T03:36:39.000Z</updated>
+        <content type="html"><![CDATA[<p>2021年2月24日，建立了我的个人网站</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://z582986307.github.io/post/hello-gridea/</id>
